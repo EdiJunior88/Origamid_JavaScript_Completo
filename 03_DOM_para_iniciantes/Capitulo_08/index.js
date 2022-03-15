@@ -1,4 +1,4 @@
-/* // const imgs = document.querySelectorAll("img");
+// const imgs = document.querySelectorAll("img");
 // console.log(imgs);
 
 // imgs.forEach(function(item, index, array){
@@ -28,4 +28,4 @@ imgs.forEach(function() {
   console.log(i++)
 });
 
-imgs.forEach(() => console.log(i++)); */
+imgs.forEach(() => console.log(i++));
